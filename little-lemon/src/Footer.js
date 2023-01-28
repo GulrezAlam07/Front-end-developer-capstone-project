@@ -19,17 +19,17 @@ export function Footer(){
                 <section>
                     {/*Contact */}
                     <h3>Contact</h3>
-                    <p>W Adams 61 Str. Chicago</p>
-                    <p>+9999999999</p>
+                    <p>Jamia, New Delhi 110025</p>
+                    <p>+91 9999999999</p>
                     <p>email@gmail.com</p>
                 </section>
                 <section>
                     {/*Social Media Links */}
                     <h3>Social Media Links</h3>
                     <ul>
-                        <li><a href="https://www.instagram.com/avd.dima03/">Instagram</a></li>
-                        <li><a href="https://www.facebook.com/people/Dmytro-Avdieienko/100009028267852/">Facebook</a></li>
-                        <li><a href="https://twitter.com/avdima03">Twitter</a></li>
+                        <li><a href="https://www.instagram.com/gulrez__alam/">Instagram</a></li>
+                        <li><a href="https://www.facebook.com/gulrez.alam.7330/">Facebook</a></li>
+                        <li><a href="https://twitter.com/7GulrezAlam">Twitter</a></li>
                     </ul>
                 </section>
             </footer>
